@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git:*)",
+      "Bash(find:*)",
+      "WebSearch",
+      "mcp__Docling_MCP__convert_document_into_docling_document"
+    ]
+  }
+}
